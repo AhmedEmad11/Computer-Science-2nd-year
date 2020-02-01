@@ -1,0 +1,31 @@
+                                                                                
+
+     *(10 Linuxubuntu commands)*
+
+
+
+1. whatis ==> used to display brief information about any command,but for this work it requires a database.
+
+2. aprops ==> used to search for any command by its function.
+
+3. file   ==> used to display only the file type.
+
+4. wc     ==> used to fined information about specific file.
+
+5. grep   ==> used to search for a sentence or a word within text files,while placing tthe sentence in quotation marks.
+
+6. mv     ==> used to transfer files and folders from one place to another.
+
+7. gzip   ==> used to compress the files.
+
+8. mcedit ==> it's the easiest text editor ever.
+
+9. tac    ==> this command is used to display the file from end to start.
+
+10.more   ==> used to read files that are larger than a page .
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
