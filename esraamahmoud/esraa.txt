@@ -1,0 +1,21 @@
+1-find/-name file1
+search for a file or folder within the root folder.
+2-free-h
+to know the current state of memory.
+3-df-h
+to know system storage capacity and capacity used.
+4-du-h
+show the capacity of the folder i am in.
+5-top
+show continuous operations in the background.
+6-more
+its displays the text file content.
+7-date
+to know time.
+8-ls-a
+show hidden files.
+9-head
+show first 15 lines from the text file.
+10-nano
+to write inside the text fie.
+
